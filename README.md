@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/34022590/111371494-2cd65500-86a2-11eb-8479-f2241d6b6e51.jpg" width="300px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34022590/112759777-385c4100-8ffd-11eb-9725-8c1411b7f299.png" width="300px"></p>
 
 <h1 align="center">
     <strong>Book List Razor</strong>
