@@ -167,7 +167,7 @@ Now our database is created.
 
 <hr>
 
-<p align="center"><img src="/BookListRazor/pic/list.png" width="300px"></p>
+<p align="center"><img src="/BookListRazor/pic/list.png" width="450px"></p>
 
 ### Book List View
 In 'Pages' folder we create new folder named 'BookList' and inside that new Razor page named 'Index'
@@ -224,7 +224,7 @@ With Foreach function we create table to display database records in form
 
 <hr>
 
-<p align="center"><img src="/BookListRazor/pic/create.png" width="300px"></p>
+<p align="center"><img src="/BookListRazor/pic/create.png" width="450px"></p>
 
 ### Create view
 We'll add 'Create' view in 'BookList' folder with 'Name', 'Author' and 'ISBN' fields\
@@ -232,7 +232,7 @@ and 'Create' and 'Back to List' button
 
 <hr>
 
-<p align="center"><img src="/BookListRazor/pic/edit.png" width="300px"></p>
+<p align="center"><img src="/BookListRazor/pic/edit.png" width="450px"></p>
 
 ### Edit view
 We'll add 'Edit' view in 'BookList' folder with 'Name', 'Author' and 'ISBN' fields\
@@ -240,7 +240,7 @@ and 'Update' and 'Back to List' button
 
 <hr>
 
-<p align="center"><img src="/BookListRazor/pic/delete.png" width="300px"></p>
+<p align="center"><img src="/BookListRazor/pic/delete.png" width="450px"></p>
 
 ### Delete function
 We could add similar delete page for every record but we do it in our list page.\
