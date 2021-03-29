@@ -6,6 +6,34 @@
 <h3 align="center">
     <p>Book List in ASP.NET Core with Razor pages</p>
 </h3>
+<h3 align="center">
+    <a target="_blank" href="https://visualstudio.microsoft.com/">Visual Studio</a>
+    <span> . </span>    
+    <a target="_blank" href="https://dotnet.microsoft.com/download">.NET Core</a>
+    <span> . </span>    
+    <a target="_blank" href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">SQL Server 2019</a>
+    <span> . </span>
+    <a target="_blank" href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15">MS SQL Management Studio</a>
+    <span> . </span>
+    <a target="_blank" href="https://sweetalert2.github.io/">Sweet Alert 2</a>
+    <span> . </span>
+    <a target="_blank" href="https://codeseven.github.io/toastr/">toastr</a>
+    <span> . </span>
+    <a target="_blank" href="https://datatables.net/">Datatables</a>
+    <span> . </span>
+    
+    
+  <a target="_blank" href="https://restfulapi.net/">restfulapi.net</a>
+	<span> · </span>
+  <a target="_blank" href="https://nodejs.org/en/">Node.js</a>
+	<span> · </span>
+  <a target="_blank" href="https://swagger.io/specification/">OpenAPI</a>
+	<span> · </span>
+  <a target="_blank" href="https://www.postman.com/">Postman</a>
+	<span> · </span>
+  <a target="_blank" href="https://insomnia.rest/">Insomnia</a>
+</h3>
+<br><br>
 
 <hr>
 
