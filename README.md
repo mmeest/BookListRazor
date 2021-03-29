@@ -47,8 +47,17 @@
 * MS SQL Server Management Studio   - https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 
 For styling:
+
+<img src="https://user-images.githubusercontent.com/34022590/112806672-b7925900-907f-11eb-9187-66ae93bbf173.png" width="250px">
+
 * SweetAlert2                       - https://sweetalert2.github.io/
+
+<img src="https://user-images.githubusercontent.com/34022590/112806675-b82aef80-907f-11eb-92a9-5a24ee5c6d0f.png" width="250px">
+
 * toastr                            - https://codeseven.github.io/toastr/
+
+<img src="https://user-images.githubusercontent.com/34022590/112806679-b8c38600-907f-11eb-9837-03bb2cd18295.png" width="250px">
+
 * DataTables                        - https://datatables.net/
 
 <hr>
