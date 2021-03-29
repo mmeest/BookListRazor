@@ -20,18 +20,6 @@
     <a target="_blank" href="https://codeseven.github.io/toastr/">toastr</a>
     <span> . </span>
     <a target="_blank" href="https://datatables.net/">Datatables</a>
-    <span> . </span>
-    
-    
-  <a target="_blank" href="https://restfulapi.net/">restfulapi.net</a>
-	<span> · </span>
-  <a target="_blank" href="https://nodejs.org/en/">Node.js</a>
-	<span> · </span>
-  <a target="_blank" href="https://swagger.io/specification/">OpenAPI</a>
-	<span> · </span>
-  <a target="_blank" href="https://www.postman.com/">Postman</a>
-	<span> · </span>
-  <a target="_blank" href="https://insomnia.rest/">Insomnia</a>
 </h3>
 <br><br>
 
